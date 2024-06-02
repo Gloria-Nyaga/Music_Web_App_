@@ -1,0 +1,50 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    align-items: center;
+    margin: 15%;
+    margin-left: 35%;
+
+}
+
+.btn.dropdown-toggle{
+    width: 100%;
+    text-align: center;
+}
+
+/* span.caret{
+    position: absolute;
+    left: 90%;
+    top: 45%;
+} */
+
+label{
+    padding-top: 5px;
+}
+
+
+
+.form-control{
+    border-radius: 20px;
+    padding: 20px 250px;
+    margin-top: 5%;
+
+}
+
+.btn-success{
+    border-radius: 20px;
+    width: 30%;
+    padding: 20px 8px;
+    border-color: black 2px;
+    cursor: pointer;
+    background-color: greenyellow;
+    margin-top: 5%;
+    font-size: 18px;
+    margin-left: 25%;
+
+}
+
+img.track{
+    border: 3px solid gray;
+}
+
